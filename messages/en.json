@@ -1,0 +1,32 @@
+{
+  "Nav": {
+    "home": "Home",
+    "blogs": "Blogs",
+    "switchLanguage": "عربي",
+    "switchLanguageLocale": "ar"
+  },
+  "HomePage": {
+    "title": "Redha AlRamadhan",
+    "description": "Software Engineer & Product Manager. I build high-performing mobile and web applications, bridging the gap between technical development and strategic product vision.",
+    "overview": "With over 5 years of experience in the world of mobile and web development, I specialize in using technologies like Flutter and Next.js to create intuitive and high-performing digital experiences.",
+    "career": "My unique background as both a Software Engineer and a Product Manager allows me to not only build robust applications but also to guide them from concept to launch, ensuring they meet both user needs and business goals. I thrive in fast-paced environments, turning complex challenges into elegant, user-friendly solutions.",
+    "experience": {
+      "title": "Experience",
+      "dngx": {
+        "title": "Software Engineer & Product Manager | DNGX Solutions",
+        "date": "July 2023 - Present",
+        "description": "Leading the development of mobile and web apps using Flutter and Next.js. I manage the product lifecycle, define technical specifications, and act as the key liaison between the development team and stakeholders."
+      },
+      "debrah": {
+        "title": "Software Engineer & Division Head | Debrah",
+        "date": "January 2022 - June 2023",
+        "description": "Developed and maintained a suite of three flagship mobile apps. Architected a scalable microservices backend with Node.js and Docker, and played a key role in improving code quality and system stability."
+      }
+    },
+    "techStack": "Tech stack"
+  },
+  "BlogsPage": {
+    "title": "Blogs",
+    "description": "I write about my experiences and learnings in the world of mobile and web development."
+  }
+}
